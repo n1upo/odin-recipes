@@ -1,1 +1,3 @@
 # odin-recipes
+
+During this project I found that I had a good handle on using html basics to build a simple website. Not only did I feel like i had a good understanding but it was a lot of fun. As I went on through the project I started paying more attention to neatness of my code (indents etc). I would say the most confusing thing about this project was making sure I was committing and pushing to git correctly so I avoided doing it until the very end. Moving forward I would commit earlier in the project - for example I would commit and push after each webpage was created. This way I would be able to look back and see each step I took during my creation process.
